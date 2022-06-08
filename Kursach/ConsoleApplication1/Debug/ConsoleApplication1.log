@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(18,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(34,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(53,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(56,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(60,15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,17): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,30): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(75,19): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Александр Скворцов\Desktop\Hui\Sosi\ConsoleApplication1\Debug\ConsoleApplication1.exe
